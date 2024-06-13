@@ -1,4 +1,4 @@
-# Clickable note links
+# Thank you for using my addon!
 
 ## 101
 This add-on allows you to create links between your cards. Here's how:
@@ -16,8 +16,6 @@ This add-on allows you to create links between your cards. Here's how:
 
 On Windows and Linux, replacing <kbd>Cmd</kbd> with <kbd>Ctrl</kbd> should preserver the shortcuts !
 
-<a href="https://picat.fr/assets/videos/clickable-note-links-demo.gif" target="_blank">Click here for an example</a>
-
 ## Pimping
 
 If you wish to modify the css of the button, you can go in the user_files folder and modify the clickable_cards.css file.  It should be preserved when (and if) I'll update the add-on.
@@ -30,10 +28,6 @@ If you wish to modify the css of the button, you can go in the user_files folder
 
 As mentioned in the code's commentaries, this addon is built upon [link Cards Notes and Preview them in extra window](https://ankiweb.net/shared/info/1423933177), [Clickable Tags v2.0](https://ankiweb.net/shared/info/1739176371), and editor wrap selected text with custom html which has been removed from AnkiWeb since.
 
-## Support
+# Support
 
 If you enjoy this addon, you can support me by buying me one coffee or more on this [website](https://buymeacoffee.com/leopicat) !
-
- <a href="https://buymeacoffee.com/leopicat" target="_blank">
-  <img src="https://picat.fr/assets/images/bmc/buy-me-coffee-yellow-button.png" width="303px"/>
- </a>
