@@ -22,9 +22,11 @@ On Windows and Linux, replacing <kbd>Cmd</kbd> with <kbd>Ctrl</kbd> should prese
 
 If you wish to modify the css of the button, you can go in the user_files folder and modify the clickable_cards.css file.  It should be preserved when (and if) I'll update the add-on.
 
-## Troubleshouting
+## Alternatives & Troubleshooting
 
-**If I were you, I wouldn't use this addon and instead I would opt for [link Cards Notes and Preview them in extra window](https://ankiweb.net/shared/info/1423933177).**  It is better maintained and it allows to insert links to both card and note.  My addon only supports links towards notes.
+**If I were you, I wouldn't use this addon and instead I would opt for [link Cards Notes and Preview them in extra window](https://ankiweb.net/shared/info/1423933177) or one of the alternatives listed in the description of this addon.**  They are better maintained and some of them allow to insert links to both card and note.  My addon only supports links towards notes.
+
+My addon only works on the desktop version of Anki, whereas [🔗Anki Note Linker](https://ankiweb.net/shared/info/1077002392) (one of the alternatives aforementioned) proposes a tweak to make links work on AnkiDroid and AnkiMobile (see their description for more details).
 
 ## Credits
 
